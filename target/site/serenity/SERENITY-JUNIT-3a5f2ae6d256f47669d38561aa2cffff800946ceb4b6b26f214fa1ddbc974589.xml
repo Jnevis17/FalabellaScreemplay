@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Agregar producto al carrito" skipped="0" tests="1" time="187.57" timestamp="2023-08-18 12:18:26"><testcase name="Agrega un producto"><error message="null&#13;&#10;null" type="java.lang.AssertionError">null&#13;
+null</error><system-err>null&#13;
+null&#13;
+co.com.falabella.stepDefinitions.AgregarProductoStepDefinitios.validaEnElCarritoDeComprasQueElNombreDelProductoElegidoSeaElMismoDelCarritoLaCantidadDeUnidadesElegidas(AgregarProductoStepDefinitios.java:49)&#13;
+✽.valida en el carrito de compras que el nombre del producto elegido sea el mismo del carrito,la cantidad de unidades elegidas(file:///C:/Users/Jnmur/Desktop/FalabellaScreemplay1/FalabellaScreemplay-master/src/test/resources/feature/AgregarCompra.feature:9)&#13;
+</system-err></testcase></testsuite>

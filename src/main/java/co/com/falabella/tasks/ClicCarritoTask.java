@@ -8,7 +8,6 @@ import static co.com.falabella.ui.ClicCarrito.BTN_CARRITO;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class ClicCarritoTask implements Task {
-
         @Override
         public <T extends Actor> void performAs(T actor) {
             actor.attemptsTo(
